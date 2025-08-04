@@ -23,6 +23,8 @@
 
 - ⚡ Fun fact **I am quite interested in Linux**
 
+- 👉 Visit my personal website [https://introducing-myself/](https://introducing-myself-website.netlify.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/loc-nguyen-1399a8208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loc-nguyen-1399a8208" height="30" width="40" /></a>
