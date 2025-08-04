@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I am quite interested in Linux**
 
-- 👉 Visit my personal website [https://introducing-myself/](https://introducing-myself-website.netlify.app/)
+- 👉 Visit my personal website [https://introducing-myself-website.netlify.app/](https://introducing-myself-website.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
